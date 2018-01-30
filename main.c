@@ -1,6 +1,6 @@
 
 /*In the name of God
-*** Towers of Hanoi ***
+*** Tower of Hanoi ***
 By Mobin Lotfizadeh Dehkordi
 2017 December 6th*/
 
